@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "author": "Natureza",
+      "photo": "/photos/1.png",
+      "likes": 1720,
+      "location": "Great Barrier of Reef, AUS",
+      "userId": 1,
+      "authorDesc": "Ola pessoal venha conhecer nossos peixes",
+      "authorLogo": "/author.png",
+      "description": "Olha esse cardume XD",
+      "createdAt": "2022-04-18 12:30",
+      "tags": "#animals #animais #fish #peixe #australia"
+    },
+    {
+      "id": 2,
+      "author": "Natureza",
+      "photo": "/photos/2.png",
+      "likes": 1300,
+      "location": "Great Barrier of Reef, AUS",
+      "userId": 1,
+      "authorDesc": "Ola pessoal venha conhecer nossos peixes",
+      "authorLogo": "/author.png",
+      "description": "Peixe azul lindo",
+      "createdAt": "2022-04-18 12:30",
+      "tags": "#animals #animais #fish #peixe #australia"
+    },
+    {
+      "id": 3,
+      "author": "Natureza",
+      "photo": "/photos/3.png",
+      "likes": 2720,
+      "location": "Great Barrier of Reef, AUS",
+      "userId": 1,
+      "authorDesc": "Ola pessoal venha conhecer nossos peixes",
+      "authorLogo": "/author.png",
+      "description": "Olha o Nemo",
+      "createdAt": "2022-04-18 12:30",
+      "tags": "#animals #animais #fish #peixe #australia"
+    },
+    {
+      "id": 4,
+      "author": "Natureza",
+      "photo": "/photos/4.png",
+      "likes": 3920,
+      "location": "Great Barrier of Reef, AUS",
+      "userId": 1,
+      "authorDesc": "Ola pessoal venha conhecer nossos peixes",
+      "authorLogo": "/author.png",
+      "description": "Que lindooo!!",
+      "createdAt": "2022-04-18 12:30",
+      "tags": "#animals #animais #fish #peixe #australia"
+    },
+    {
+      "id": 5,
+      "author": "Natureza",
+      "photo": "/photos/5.png",
+      "likes": 3720,
+      "location": "Great Barrier of Reef, AUS",
+      "userId": 1,
+      "authorDesc": "Ola pessoal venha conhecer nossos peixes",
+      "authorLogo": "/author.png",
+      "description": "Deve ser o pai do Nemo",
+      "createdAt": "2022-04-18 12:30",
+      "tags": "#animals #animais #fish #peixe #australia"
+    }
+
+  ]
